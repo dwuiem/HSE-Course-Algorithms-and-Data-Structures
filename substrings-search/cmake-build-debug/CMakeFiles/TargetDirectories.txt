@@ -1,0 +1,3 @@
+D:/HSE/algs/substrings-search/cmake-build-debug/CMakeFiles/substrings_search.dir
+D:/HSE/algs/substrings-search/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/HSE/algs/substrings-search/cmake-build-debug/CMakeFiles/rebuild_cache.dir
